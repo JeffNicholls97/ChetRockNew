@@ -1,0 +1,242 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "product-labels": {
+          "type": "product-labels",
+          "settings": {
+            "show_variant_icon": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_weight": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "dynamic_availability_downwards": true,
+            "show_backorder_text": false,
+            "enable_size_chart": true,
+            "size_chart_variant": "Size",
+            "size_chart_page": "size-chart"
+          }
+        },
+        "buy_buttons_ntpiPz": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "collapsible_content_kwaLNg": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Description",
+            "icon": "question_mark",
+            "text": "<p>{{ product.description }}</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_content_capRtA": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Shipping Information",
+            "icon": "truck",
+            "text": "<p>Next Day Delivery - Excluding Weekends Free - Spend Over £65.00</p><p>Next Day Delivery - Excluding Weekends £4.99</p><p>International Delivery £20.00</p><p>Our returns process is easier than ever! Head to our <a href=\"https://chetrock.com/pages/returns\" target=\"_blank\" title=\"UK Returns\"><span style=\"text-decoration:underline\">Returns page</span></a> for more info.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_content_6x9bpN": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Sizing",
+            "icon": "ruler",
+            "text": "<p>For more information on sizing, please visit the sizing guide <a href=\"https://chetrock.com/pages/size-chart\" title=\"Sizing Chart\">here</a>.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_content_izR6H9": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Country of Origin",
+            "icon": "map_pin",
+            "text": "<p>#</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "divider-1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "product-labels",
+        "title",
+        "rating",
+        "price",
+        "variant-picker",
+        "buy_buttons_ntpiPz",
+        "collapsible_content_kwaLNg",
+        "collapsible_content_capRtA",
+        "collapsible_content_6x9bpN",
+        "collapsible_content_izR6H9",
+        "divider-1",
+        "share"
+      ],
+      "settings": {
+        "stick_on_scroll": true,
+        "select_first_variant": true,
+        "sticky_atc_panel": true,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "media_layout": "stacked",
+        "media_size": "large",
+        "media_ratio": "natural",
+        "media_crop": "none",
+        "enable_video_looping": false,
+        "enable_zoom": true,
+        "zoom_mode": "hover",
+        "enable_lightbox_mobile": false,
+        "hover_zoom": "large",
+        "stacked_scroll": "always",
+        "underline_active": true,
+        "media_arrows": "desktop",
+        "show_slide_count": true,
+        "media_thumbs": "always",
+        "lightbox_thumbnails": true,
+        "thumb_ratio": "1",
+        "thumb_crop": "none",
+        "border_color": "rgba(0,0,0,0)",
+        "bg_color": "#f4f4f4",
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "details": {
+      "type": "product-details",
+      "blocks": {
+        "tabs": {
+          "type": "tabs",
+          "settings": {
+            "style": "collapsible",
+            "open_first": false,
+            "show_description": true,
+            "show_reviews": true,
+            "custom_reviews": "",
+            "show_specification": true,
+            "spec_metafields": "",
+            "spec_right_align": true,
+            "spec_show_empty_metafields": false,
+            "spec_empty_field_text": "-",
+            "tab_1_title": "",
+            "tab_1_text": "",
+            "tab_1_page": "",
+            "tab_2_title": "",
+            "tab_2_text": "",
+            "tab_2_page": "",
+            "tab_3_title": "",
+            "tab_3_text": "",
+            "tab_3_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tabs"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "newsletter-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be the first to know!",
+            "heading_size": "h3"
+          }
+        },
+        "newsletter-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sign up for updates, and we'll let you know when it's arrived.</p>",
+            "enlarge_text": false
+          }
+        },
+        "newsletter-form-3": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "newsletter-heading-1",
+        "newsletter-text-2",
+        "newsletter-form-3"
+      ],
+      "settings": {
+        "overlay_position": "justify-center",
+        "text_align": "text-center",
+        "color_scheme": "default",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 20
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_align": "text-start",
+        "layout": "grid",
+        "card_size_mobile": "small",
+        "card_size": "large",
+        "products_to_show": 8
+      }
+    }
+  },
+  "order": [
+    "main",
+    "details",
+    "newsletter",
+    "recommendations"
+  ]
+}
