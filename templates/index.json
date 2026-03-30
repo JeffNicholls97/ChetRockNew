@@ -131,28 +131,29 @@
         "collection_dPfVdD": {
           "type": "collection",
           "settings": {
-            "collection": "tees"
-          }
-        },
-        "collection_MM3Hb4": {
-          "type": "collection",
-          "settings": {
-            "collection": "shirts",
-            "image": "shopify://shop_images/DSC8515.jpg"
+            "collection": "tees",
+            "image": "shopify://shop_images/CR_TILES.png"
           }
         },
         "collection_MVwpGH": {
           "type": "collection",
           "settings": {
             "collection": "bottoms",
-            "image": "shopify://shop_images/CR_tile_draft_2000_x_2000_px.png"
+            "image": "shopify://shop_images/CR_TILES_2.png"
+          }
+        },
+        "collection_MM3Hb4": {
+          "type": "collection",
+          "settings": {
+            "collection": "outerwear",
+            "image": "shopify://shop_images/CR_TILES_1.png"
           }
         }
       },
       "block_order": [
         "collection_dPfVdD",
-        "collection_MM3Hb4",
-        "collection_MVwpGH"
+        "collection_MVwpGH",
+        "collection_MM3Hb4"
       ],
       "custom_css": [
         "ul.grid.grid-cols-2.sm\\:grid-cols-3.xl\\:grid-cols-4.gap-x-theme.gap-y-10 {gap: 2px;}",
