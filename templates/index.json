@@ -12,8 +12,8 @@
     "image_banner_LbGxLA": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/CR_SS26_BANNERS.png",
-        "image_mobile": "shopify://shop_images/CR_SS26_BANNERS_1.png",
+        "image_desktop": "shopify://shop_images/CR_Buy_1_Get_1_Half_Price.png",
+        "image_mobile": "shopify://shop_images/CR_Buy_1_Get_1_Half_Price_1.png",
         "url": "shopify://collections/all-new-in",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
