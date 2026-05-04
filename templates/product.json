@@ -34,18 +34,6 @@
             "show_tax_and_shipping": false
           }
         },
-        "message_Y3my6e": {
-          "type": "message",
-          "settings": {
-            "icon": "none",
-            "title": "<p>BUY 1 GET 1 HALF PRICE ON EVERYTHING (NO CODE NEEDED)</p>",
-            "close": "once",
-            "show_over_media": false,
-            "visibility_duration": 7,
-            "bg_color": "#fcedee",
-            "text_color": "#b40c1c"
-          }
-        },
         "inventory_status_jXWabM": {
           "type": "inventory-status",
           "settings": {
@@ -142,7 +130,6 @@
         "title",
         "rating",
         "price",
-        "message_Y3my6e",
         "inventory_status_jXWabM",
         "custom_liquid_DfJbqe",
         "variant-picker",
