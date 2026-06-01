@@ -1050,8 +1050,8 @@
       "type": "image-banner",
       "name": "Image banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/AS_SEEN_IN_6.png",
-        "image_mobile": "shopify://shop_images/AS_SEEN_IN_8.png",
+        "image_desktop": "shopify://shop_images/AS_SEEN_IN_3f23378a-7072-423f-b441-94851c97a647.png",
+        "image_mobile": "shopify://shop_images/AS_SEEN_IN_1_ea72e4f4-5750-46fa-8118-db0b8c7d9d9e.png",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
