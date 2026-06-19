@@ -117,6 +117,17 @@
         "accent_color": "#777777"
       }
     },
+    "custom_liquid_aqEAPT": {
+      "type": "custom-liquid",
+      "name": "Custom HTML/Liquid",
+      "settings": {
+        "custom_liquid": "Please use the form below to submit your cancellation.",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
     "promo-strip": {
       "type": "promo-strip",
       "settings": {
@@ -196,6 +207,7 @@
   "order": [
     "announcement",
     "header",
+    "custom_liquid_aqEAPT",
     "promo-strip",
     "icons_with_text_VzhpNw"
   ]
