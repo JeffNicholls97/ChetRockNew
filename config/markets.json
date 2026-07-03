@@ -8,17 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "context": {
-    "market": "united-states"
-  },
-  "parent": "index.json",
-  "sections": {
-    "image_banner_LbGxLA": {
-      "settings": {
-        "image_desktop": "shopify://shop_images/CR_4TH_OF_JULY.png",
-        "image_mobile": "shopify://shop_images/CR_4TH_OF_JULY_1.png"
-      },
-      "blocks": {}
+  "markets": {
+    "united-states": {
+      "parent": "@default"
     }
   }
 }

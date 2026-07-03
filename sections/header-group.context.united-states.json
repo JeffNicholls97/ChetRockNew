@@ -12,5 +12,16 @@
     "market": "united-states"
   },
   "parent": "header-group.json",
-  "sections": {}
+  "sections": {
+    "announcement": {
+      "settings": {},
+      "blocks": {
+        "announcement_fUMGXJ": {
+          "settings": {
+            "text": "<p>4TH JULY - 24% OFF SITEWIDE! (CODE: USA24) - <a href=\"/collections/all-new-in\" title=\"All New In\">SHOP NOW</a></p>"
+          }
+        }
+      }
+    }
+  }
 }
