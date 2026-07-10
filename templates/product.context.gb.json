@@ -12,5 +12,42 @@
     "market": "gb"
   },
   "parent": "product.json",
-  "sections": {}
+  "sections": {
+    "main": {
+      "settings": {},
+      "blocks": {
+        "message_THLp3": {
+          "type": "message",
+          "disabled": false,
+          "settings": {
+            "icon": "none",
+            "title": "<p>3 FOR 2 ON ALL SALE ITEMS! </p><p>THIS WEEKEND ONLY (NO CODE NEEDED)</p>",
+            "close": "once",
+            "show_over_media": false,
+            "visibility_duration": 7,
+            "header-f193e64cb34bb5aa7eb46675681f116a": null,
+            "bg_color": "#E4CCCC",
+            "text_color": "#D21A1A"
+          }
+        }
+      },
+      "block_order": [
+        "product-labels",
+        "title",
+        "rating",
+        "price",
+        "inventory_status_jXWabM",
+        "message_THLp3",
+        "custom_liquid_DfJbqe",
+        "variant-picker",
+        "buy_buttons_ntpiPz",
+        "collapsible_content_kwaLNg",
+        "collapsible_content_capRtA",
+        "collapsible_content_6x9bpN",
+        "collapsible_content_izR6H9",
+        "divider-1",
+        "share"
+      ]
+    }
+  }
 }
