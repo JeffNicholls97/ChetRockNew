@@ -34,18 +34,6 @@
             "show_tax_and_shipping": false
           }
         },
-        "message_T9hKTj": {
-          "type": "message",
-          "settings": {
-            "icon": "none",
-            "title": "<p>30% OFF SHORTS (SAVEONSHORTS) LIMITED TIME ONLY</p>",
-            "close": "once",
-            "show_over_media": false,
-            "visibility_duration": 7,
-            "bg_color": "#FAE4E4",
-            "text_color": "#D21A1A"
-          }
-        },
         "inventory_status_jXWabM": {
           "type": "inventory-status",
           "settings": {
@@ -142,7 +130,6 @@
         "title",
         "rating",
         "price",
-        "message_T9hKTj",
         "inventory_status_jXWabM",
         "custom_liquid_DfJbqe",
         "variant-picker",
